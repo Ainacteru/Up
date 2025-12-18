@@ -1,0 +1,7 @@
+/home/rpi4/Code/dotnetStuff/deploy/Up
+/home/rpi4/Code/dotnetStuff/deploy/appsettings.Development.json
+/home/rpi4/Code/dotnetStuff/deploy/appsettings.json
+/home/rpi4/Code/dotnetStuff/deploy/Up.dll
+/home/rpi4/Code/dotnetStuff/deploy/Up.deps.json
+/home/rpi4/Code/dotnetStuff/deploy/Up.runtimeconfig.json
+/home/rpi4/Code/dotnetStuff/deploy/Up.pdb
