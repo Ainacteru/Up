@@ -12,5 +12,5 @@ jobs:
     steps:
       - name: Trigger Raspberry Pi webhook
         run: |
-          curl -X POST ${{ secrets.link }} \
+          curl -X POST ${{ secrets.LINK }} \
                -H "X-My-Secret: ${{ secrets.DEPLOY_SECRET }}"
